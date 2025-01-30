@@ -1,6 +1,8 @@
 # Student_Performance_Predict
 "Predicting student performance using machine learning involves analyzing various factors like attendance, study hours, previous grades, socioeconomic status, and more to estimate academic success."
 
+<img src="https://github.com/rpjinu/Student_Performance_Predict/blob/main/project_image.png">
+
 # 🎓 Student Performance Prediction
 
 This project predicts student final scores based on study hours, attendance, and previous grades.
